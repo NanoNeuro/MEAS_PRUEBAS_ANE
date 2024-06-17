@@ -1,4 +1,4 @@
-FOLDER_INPUT_BASE = f'/data/Proyectos/Nanoneuro_exps_ane/raw_files/2024_05_07/'
-FOLDER_OUTPUT_BASE = f'/data/Proyectos/Nanoneuro_exps_ane/results/MFR-Bursts-SI Analysis pre-post/'
+FOLDER_INPUT_BASE = f'Z:/@Working/MEAS_PRUEBAS_ANE/raw_files/2024_06_07/'
+FOLDER_OUTPUT_BASE = f'Z:/@Working/MEAS_PRUEBAS_ANE/results/2024_06_07/'
 
 CUTOFF_SPIKES_HZ = 4
