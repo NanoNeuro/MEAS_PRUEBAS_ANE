@@ -1,5 +1,6 @@
 results
-raw_files
+data
+intermediate_files
 
 */.DS_Store
 .DS_Store
